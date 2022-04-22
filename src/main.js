@@ -19,9 +19,9 @@ function setup() {
       this.currentLanguage = current;
     },
     services: [
-      { url: '20028162201@go.webex.com', name: 'First' },
-      { url: 'erica.talking@ivr.vc', name: 'Second' },
-      { url: 'erica.talking@ivr.vc', name: 'Third' },
+      { url: 'oilyas@cisco.com', name: 'First' },
+      { url: 'kebarrow@cisco.com', name: 'Second' },
+      { url: 'omer.ilyas@boldbetz.com', name: 'Third' },
     ],
   });
 
